@@ -2,7 +2,7 @@
 An absurdly simple GO package for making Salesforce Rest API calls.
 
 # Table of Contents
-* Introduction (#introduction)
+* Introduction (# introduction)
 * Contributors
 * Requirements
 * Install
