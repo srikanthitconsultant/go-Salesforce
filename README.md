@@ -24,7 +24,7 @@ An absurdly simple GO package for making Salesforce Rest API calls.
 * [Logout](#logout)
 * [Contributors](#contributors)
 * [Contributing](#Contributing)
-* FAQ(#faq)
+* [FAQ](#faq)
 
 # Introduction
 
