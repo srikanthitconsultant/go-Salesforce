@@ -2,8 +2,7 @@
 An absurdly simple GO package for making Salesforce Rest API calls.
 
 # Table of Contents
-* Introduction (# introduction)
-* Contributors
+* [Introduction] (#introduction)
 * Requirements
 * Install
 * Create a client and log in
@@ -23,6 +22,7 @@ An absurdly simple GO package for making Salesforce Rest API calls.
 * Wave
 * Bulk API 2.0
 * Logout
+* [Contributors] (#contributors)
 * Contributing
 * FAQ
 
